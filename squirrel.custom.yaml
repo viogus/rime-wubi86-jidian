@@ -86,6 +86,8 @@ patch:
   app_options:
     com.termius-dmg.mac: # Terminal - Mac
       ascii_mode: true
+    org.gnu.Emacs: # Emacs
+      ascii_mode: true
 #    com.google.Chrome: # Chrome
 #      ascii_mode: true
 #    com.coderforart.MWeb3: # MWeb
