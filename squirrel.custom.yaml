@@ -88,6 +88,8 @@ patch:
       ascii_mode: true
     org.gnu.Emacs: # Emacs
       ascii_mode: true
+    org.alacritty: # Emacs
+      ascii_mode: true
 #    com.google.Chrome: # Chrome
 #      ascii_mode: true
 #    com.coderforart.MWeb3: # MWeb
